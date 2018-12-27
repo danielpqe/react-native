@@ -1,3 +1,4 @@
 # react-native
-Curso avanzado de React Native
+Video player with React Native and Redux
+
 ![](RN.gif)
